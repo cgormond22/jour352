@@ -1,0 +1,27 @@
+.red-paragraph {
+    background-color: #99a3a4 ;
+    padding: 1em;
+    font-size: .EM;
+    line-height: 1.5;
+    color: #21221A;
+  }
+
+  .img {
+    align-items: center;
+  }
+
+  h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #6495ED;
+  }
+
+  h1{
+    font-family: "Unlock", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1f618d
+  }
+
+  body {
+    background-color:#d7dbdd ;
+  }
