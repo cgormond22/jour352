@@ -24,7 +24,7 @@ h2 {
     color: #282828;
 }
 
-#down {
+.down {
     padding-top: 5em;
     padding-left: 7em;
     padding-right: 7em;
@@ -65,43 +65,49 @@ body {
     font-optical-sizing: auto;
 }
 
-#red {
+.red {
     color: #D2122E;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
 
 }
 
-#yellow {
+.yellow {
     color: #DAA520;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
 
 }
 
-#pink {
+.pink {
     color: #DE3163;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
 
 }
 
-#blue {
+.blue {
     color: #007FFF;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
 
 }
 
-#title {
+.title {
     font-size: 30px;
 }
 
-#caption {
+.caption {
     text-align: center;
     font-size: smaller;
 }
 
 h3 {
     color: #D2122E;
+}
+
+#finalcaption{
+    text-align: center;
+    font-size: smaller;
+    padding-bottom: 3em;
 }
