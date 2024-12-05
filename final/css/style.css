@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Londrina+Sketch&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Londrina+Sketch&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lexend:wght@100..900&family=Londrina+Sketch&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+header {
+    height: 400px;
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#center {
+    text-align: center;
+}
+
+h2 {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #282828;
+}
+
+#down {
+    padding-top: 5em;
+    padding-left: 7em;
+    padding-right: 7em;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-size: 25px;
+}
+
+.center-container {
+    padding-top: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.infogram-embed {
+    max-width: 800px;
+    max-height: 800px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #DCDCDC;
+}
+
+.container {
+    font-size: larger;
+    border: 1px solid black;
+    padding: 20px;
+
+}
+
+#chart{
+    padding-left: 13em;
+    padding-top: 3em;
+    padding-right: 13em;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+}
+
+#red {
+color: #D2122E;
+font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+#yellow{
+    color: #DAA520;
+    font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+#pink{
+    color: #DE3163;
+    font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+#blue{
+   color: #007FFF;
+   font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+
+#title{
+    font-size: 30px;
+}
+
+#caption{
+    text-align: center;
+    font-size: smaller;
+}
