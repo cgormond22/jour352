@@ -46,7 +46,7 @@ h2 {
     margin: 0 auto;
 }
 
-body{
+body {
     background-color: #DCDCDC;
 }
 
@@ -57,7 +57,7 @@ body{
 
 }
 
-#chart{
+#chart {
     padding-left: 13em;
     padding-top: 3em;
     padding-right: 13em;
@@ -66,38 +66,42 @@ body{
 }
 
 #red {
-color: #D2122E;
-font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
-  
+    color: #D2122E;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+
 }
 
-#yellow{
+#yellow {
     color: #DAA520;
     font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
-  
+    font-optical-sizing: auto;
+
 }
 
-#pink{
+#pink {
     color: #DE3163;
     font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
-  
+    font-optical-sizing: auto;
+
 }
 
-#blue{
-   color: #007FFF;
-   font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
- 
+#blue {
+    color: #007FFF;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+
 }
 
-#title{
+#title {
     font-size: 30px;
 }
 
-#caption{
+#caption {
     text-align: center;
     font-size: smaller;
+}
+
+h3 {
+    color: #D2122E;
 }
